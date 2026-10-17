@@ -52,7 +52,7 @@ CMake options:
 * `C2F_AVX2` - use AVX2 and FMA on x86-64, default ON. Turn it OFF for CPUs older than Intel Haswell (2013) or AMD Excavator (2015)
 * `C2F_TOOLS` - build the command line tools, default ON
 
-If the parent CMake project already has a target called `codec2_mod, that one is
+If the parent CMake project already has a target called `codec2_mod`, that one is
 used and Codec2-mod is not built a second time.
 
 ## Trying it
