@@ -1,0 +1,6 @@
+build*/
+pth/
+*.pth
+__pycache__/
+training/c2feat
+listen/

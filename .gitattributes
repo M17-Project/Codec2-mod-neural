@@ -1,0 +1,3 @@
+# generated weight tables - keep them out of diffs and language stats
+model/fargan_data.c linguist-generated=true -diff
+model/fargan_data.h linguist-generated=true
